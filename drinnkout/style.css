@@ -1,0 +1,19 @@
+button{
+	text-align: right;
+}
+.backto{
+	text-align: center;
+}
+b{
+font-size: large;	
+}
+.asd{
+	width: 100px;
+  height: 190px;
+	display: inline-block;
+	align-self: flex-end;
+}
+footer{
+	background-color:rgb(179, 235, 146);
+}
+
